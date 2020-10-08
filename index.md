@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/yyh0216/yyh0216.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yyh0216/yyh0216.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTUPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8"/>
+    <title>我的第一个网页</title>     title{color:red;font-size:28px;}
+  </head>
+  <img src="6d20e12233318b33ab0363cd95710e6d(1).jpg"/>
+  <body>                           body{background-color:yellow;}
+     <h1>个人基本信息</h1>          h1,h2,h3,h4{color:blue;font-size:20px;}
+   <ul>
+    <li>我是杨奕航，男，18周岁，共青团员，来自中华人民共和国江西省上饶市信州区，现就读于北京大学公共卫生学院预防医学专业。</li>
+    <li>我性格比较安静沉稳，待人和善</li>
+    </ul>
+     
+     <h1>成长经历</h2>
+    <ul>
+     <li>我小学就读于江西省凤凰学校，初中就读于上饶市实验中学，高中就读于上饶市第一中学；</li>
+     <li>荣获不同阶段的多次三好学生、优秀班干部，高中参加全国奥林匹克数学竞赛荣获省级二等奖，参加国学竞赛荣获国家二等奖；</li>
+     <li>中考成绩697分，全市第35名；高考成绩677分，全省第147名，被北京大学预防医学专业录取。</li>
+     </ul>
+    
+    <h3>兴趣爱好</h3>
+     <ol>
+     <li>文艺方面，
+      <ul>
+       <li>我从小喜欢画画，素描曾获八级证书；喜欢写小说（虽然水平不高）；</li>
+       <li>热爱阅读，无论是中外名著还是畅销小说，喜欢鲁迅、雨果、刘慈欣的作品；</li>
+       <li>也喜欢听音乐，古风民谣流行纯音乐都喜欢。</li>
+      </ul>
+     </li>
+     <li>体育方面，喜欢打篮球以及下中国象棋；学习方面，喜欢数学。</li>
+     </ol>
+    
+    <h4>我的世界观</h4>
+     <ul>
+     <li>我认为今天的世界是充满机遇与挑战的。</li>
+     <li>我国目前处于发展的最好阶段，全面建成小康社会，脱贫攻坚取得胜利，“一带一路”在如火如荼的建设中；</li>
+     <li>但世界局势又是复杂多变的，美国、印度、日本、台湾地区并不安宁，新冠疫情肆虐全球；</li>
+     <li>而我们正是要用自己所学的知识来建设祖国，改变世界；对于我来说，就是要将医学知识用于救死扶伤，建设全球公共卫生体系。</li>
+     <ul>
+  <body>
+    
