@@ -2,12 +2,11 @@
 <html lang="zh-cn">
   <head>
     <meta charset="utf-8"/>
-    <title>我的第一个网页</title>     title{color:red;font-size:28px;}
+    
   </head>
-  <img src="6d20e12233318b33ab0363cd95710e6d(1).jpg"/>
   <body>                         
-     <h1>个人基本信息</h1>          h1,h2,h3,h4{color:blue;font-size:20px;}
-   <ul>
+     <ul>
+   <h1>个人基本信息</h1>          
     <li>我是杨奕航，男，18周岁，共青团员，来自中华人民共和国江西省上饶市信州区，现就读于北京大学公共卫生学院预防医学专业。</li>
     <li>我性格比较安静沉稳，待人和善</li>
     </ul>
